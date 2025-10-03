@@ -1,0 +1,29 @@
+.flexbox-nav{
+    display: flex;
+    background-color: red;
+    justify-content: space-evenly;
+}
+
+.flexbox-header{
+    display: flex;
+    background-color:transparent;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.match-bg{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.match-bg:hover{
+    border-color: black;
+}
+
+.size-header-img{
+    max-height: 4rem;
+}
+
+p{
+    display: block;
+}

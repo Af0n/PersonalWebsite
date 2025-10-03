@@ -1,9 +1,0 @@
-.flexbox{
-    display: flex;
-    background-color: red;
-    justify-content: space-evenly;
-}
-
-p{
-    display: block;
-}
