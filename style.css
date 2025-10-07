@@ -5,8 +5,17 @@
 
 .flexbox-nav{
     display: flex;
-    background-color: red;
     justify-content: space-evenly;
+}
+
+.nav-bttn{
+    height: 4rem;
+    border-color: transparent;
+    width: 100%;
+}
+
+.nav-bttn:hover{
+    cursor: pointer;
 }
 
 .flexbox-header{
