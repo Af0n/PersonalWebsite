@@ -43,6 +43,11 @@
     max-width: 5vw;
 }
 
+.size-inverse-width{
+    object-fit: contain;
+    width: clamp(150px, 30vw, 500px);
+}
+
 p{
     display: block;
 }
