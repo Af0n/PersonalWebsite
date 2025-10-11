@@ -25,6 +25,11 @@
     align-items: center;
 }
 
+.flexbox-between{
+    display: flex;
+    justify-content: space-between;
+}
+
 .match-bg{
     background-color: transparent;
     border-color: transparent;
